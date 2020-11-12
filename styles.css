@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+#main {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+#img-div, figure {
+    min-width: 200px;
+    max-width: 50%;
+    margin: 0 auto;
+}
+#image {
+    display: block;
+    max-width: 200px;
+    height: auto;
+    margin: 0 auto;
+}
